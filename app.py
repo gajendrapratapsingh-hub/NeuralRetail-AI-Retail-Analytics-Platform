@@ -34,8 +34,8 @@ BANNER_PATH = PROJECT_ROOT / "images" / "banner.jpg"
 
 PAGES = {
     "home": "app.py",
-    "segmentation": "pages/2_Customer_Segmentation.py",
-    "forecasting": "pages/3_Sales_Forecasting.py",
+    "segmentation": "pages/2_customer_segmentation.py",
+    "forecasting": "pages/3_sales_Forecasting.py",
     "churn": "pages/4_Customer_Churn.py",
     "inventory": "pages/5_Inventory_Optimization.py",
     "pricing": "pages/6_Price_Optimization.py",
